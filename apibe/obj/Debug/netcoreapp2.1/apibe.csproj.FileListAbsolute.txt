@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\bin\Debug\netcoreapp2.1\apibe.deps.json
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\bin\Debug\netcoreapp2.1\apibe.runtimeconfig.json
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\bin\Debug\netcoreapp2.1\apibe.runtimeconfig.dev.json
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\bin\Debug\netcoreapp2.1\apibe.dll
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\bin\Debug\netcoreapp2.1\apibe.pdb
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.RazorAssemblyInfo.cache
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.RazorAssemblyInfo.cs
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.RazorTargetAssemblyInfo.cache
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.dll
+C:\Users\Eduardo\Desktop\beblue\apibe\apibe\obj\Debug\netcoreapp2.1\apibe.pdb

@@ -10,6 +10,9 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.0" />
+    <PackageReference Include="SpotifyAPI.Web" Version="4.1.0" />
+    <PackageReference Include="SpotifyAPI.Web.Auth" Version="4.1.0" />
   </ItemGroup>
 
 </Project>
